@@ -1,0 +1,13 @@
+1. scrollbar color change.
+2. message bubble width change.
+3. Search feature in contacts.
+4. emails and notes feature in lead edit.
+5. Send email feature in edit lead.
+6. Fix add task date invalid error in edit lead.
+7. file size error in upload file (quick add).
+8. Infinite scrolling in pipeline.
+9. Make filter sidebar fixed, save search.
+10. Add Back button in agent profile.
+11. Fix issues with Search everything.
+12. Contract Id not available in create New Invoice.
+13. Opportunity api failing issue.
