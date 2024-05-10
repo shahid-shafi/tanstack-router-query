@@ -1,0 +1,55 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Black Fujifilm Dslr Camera",
+            "price": 45000,
+            "description": "lorem ipsum dolor sit amet, consectetur adip nonum lorem ipsum dolor sit amet",
+            "rating": {
+                "rate": 4.2,
+                "count": 203
+            },
+            "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 2,
+            "title": "Selective Focus Photography of Disassembled Camera Telephoto Lens",
+            "price": 10000,
+            "description": "lorem ipsum dolor sit amet, consectetur adip nonum lorem ipsum dolor sit amet",
+            "rating": {
+                "rate": 4,
+                "count": 458
+            },
+            "image": "https://images.pexels.com/photos/279906/pexels-photo-279906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 3,
+            "title": "Black and Silver Round Chronograph Watch",
+            "price": 300,
+            "description": "lorem ipsum dolor sit amet, consectetur adip nonum lorem ipsum dolor sit amet",
+            "rating": {
+                "rate": 4,
+                "count": 20
+            },
+            "image": "https://images.pexels.com/photos/10478973/pexels-photo-10478973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 4,
+            "title": "Silver Iphone X With Airpods",
+            "price": 300,
+            "description": "lorem ipsum dolor sit amet, consectetur adip nonum lorem ipsum dolor sit amet",
+            "rating": {
+                "rate": 4,
+                "count": 20
+            },
+            "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ],
+    "users": [
+        {
+            "name": "Shahid",
+            "email": "shahid.com",
+            "password": "123"
+        }
+    ]
+}
